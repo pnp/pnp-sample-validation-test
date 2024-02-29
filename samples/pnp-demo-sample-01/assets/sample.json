@@ -27,7 +27,7 @@
         {
           "type": "image",
           "order": 101,
-          "url": "https://github.com/pnp/pnp-sample-validation-test/blob/main/samples/pnp-demo-sample-01/assets/orders-api-configure-authentication-dialog.png?raw=true",
+          "url": "https://github.com/pnp/pnp-sample-validation-test/blob/main/samples/pnp-demo-sample-01/assets/invalid-orders-api-configure-authentication-dialog.png?raw=true",
           "alt": "Call custom APIs secured with Azure Active Directory without ADAL JS"
         },
         {
