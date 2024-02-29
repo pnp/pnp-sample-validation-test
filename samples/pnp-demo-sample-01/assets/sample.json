@@ -1,7 +1,7 @@
 [
     {
       "name": "pnp-sample-validation-test-demo-sample-01",
-      "title": "Call custom APIs secured with Azure Active Directory without ADAL JS",
+      "title": "Call custom APIs secured with Azure Active Directory without ADAL JS - Updated",
       "source": "pnp",
       "shortDescription": "Sample SharePoint Framework client-side web part showing how to access a custom API secured with Azure Active Directory (AAD) without using ADAL JS.",
       "url": "https://github.com/pnp/pnp-sample-validation-test/tree/main/samples/pnp-demo-sample-01",
